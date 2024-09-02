@@ -1,6 +1,7 @@
 # Weather-App
  Weather App in HTML CSS & JAVASCRIPT
 <br>
+<br>
 ![bandicam 2024-09-02 13-54-45-540](https://github.com/user-attachments/assets/65880344-26f7-432d-b397-db384dbeeb15)
 ![bandicam 2024-09-02 13-54-52-721](https://github.com/user-attachments/assets/387b6dfd-db57-4f68-a7fd-9df4698da9a7)
 ![bandicam 2024-09-02 13-55-03-837](https://github.com/user-attachments/assets/482de345-c7f4-4296-bcc0-226db75a345b)
